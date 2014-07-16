@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <name>
+    <namerecord nameID="0" platformID="3" platEncID="1" langID="0x409">
+      Digitized data copyright &#169; 2010, Google Corporation.
+    </namerecord>
+    <namerecord nameID="1" platformID="3" platEncID="1" langID="0x409">
+      Droid Arabic Naskh
+    </namerecord>
+    <namerecord nameID="2" platformID="3" platEncID="1" langID="0x409">
+      Regular
+    </namerecord>
+    <namerecord nameID="3" platformID="3" platEncID="1" langID="0x409">
+      Ascender - Droid Arabic Naskh
+    </namerecord>
+    <namerecord nameID="4" platformID="3" platEncID="1" langID="0x409">
+      Droid Arabic Naskh
+    </namerecord>
+    <namerecord nameID="5" platformID="3" platEncID="1" langID="0x409">
+      Version 1.00
+    </namerecord>
+    <namerecord nameID="6" platformID="3" platEncID="1" langID="0x409">
+      DroidArabicNaskh
+    </namerecord>
+    <namerecord nameID="7" platformID="3" platEncID="1" langID="0x409">
+      Droid is a trademark of Google and may be registered in certain jurisdictions.
+    </namerecord>
+    <namerecord nameID="8" platformID="3" platEncID="1" langID="0x409">
+      Ascender Corporation
+    </namerecord>
+    <namerecord nameID="9" platformID="3" platEncID="1" langID="0x409">
+      Pascal Zoghbi 
+    </namerecord>
+    <namerecord nameID="10" platformID="3" platEncID="1" langID="0x409">
+      Droid Arabic Naskh is an Arabic type designed for use in Google&#8482; products such as Google ChromeOS&#8482; and Android&#8482;. Designed to complement the Latin, Greek and Cyrillic provided in the Droid Serif family, the Arabic matches the color, alignment and design detail of the Droid Serif allowing them to be used together for multi-lingual typesetting. This Naskh style is optimized for reading Arabic script on screen. The large &#8216;loop height&#8217; and &#8216;tooth height&#8217; help prevent readers from having to zoom web pages to a larger size in order to read them. The traditional Naskh forms are softened for less formal documents such as periodicals and journals. The letterforms structures are based on the calligraphic grammatical rules of the Naskh writing style while drawn with a contemporary feel.
+    </namerecord>
+    <namerecord nameID="11" platformID="3" platEncID="1" langID="0x409">
+      http://www.ascendercorp.com/
+    </namerecord>
+    <namerecord nameID="12" platformID="3" platEncID="1" langID="0x409">
+      http://www.ascendercorp.com/typedesigners.html
+    </namerecord>
+    <namerecord nameID="13" platformID="3" platEncID="1" langID="0x409">
+      Licensed under the Apache License, Version 2.0
+    </namerecord>
+    <namerecord nameID="14" platformID="3" platEncID="1" langID="0x409">
+      http://www.apache.org/licenses/LICENSE-2.0
+    </namerecord>
+  </name>
+
+</ttFont>

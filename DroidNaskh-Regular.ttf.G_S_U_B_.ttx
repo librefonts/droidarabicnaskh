@@ -1,0 +1,797 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <GSUB>
+    <Version value="1.0"/>
+    <ScriptList>
+      <!-- ScriptCount=1 -->
+      <ScriptRecord index="0">
+        <ScriptTag value="arab"/>
+        <Script>
+          <DefaultLangSys>
+            <ReqFeatureIndex value="65535"/>
+            <!-- FeatureCount=7 -->
+            <FeatureIndex index="0" value="0"/>
+            <FeatureIndex index="1" value="6"/>
+            <FeatureIndex index="2" value="9"/>
+            <FeatureIndex index="3" value="16"/>
+            <FeatureIndex index="4" value="19"/>
+            <FeatureIndex index="5" value="12"/>
+            <FeatureIndex index="6" value="3"/>
+          </DefaultLangSys>
+          <!-- LangSysCount=2 -->
+          <LangSysRecord index="0">
+            <LangSysTag value="FAR "/>
+            <LangSys>
+              <ReqFeatureIndex value="65535"/>
+              <!-- FeatureCount=7 -->
+              <FeatureIndex index="0" value="1"/>
+              <FeatureIndex index="1" value="7"/>
+              <FeatureIndex index="2" value="10"/>
+              <FeatureIndex index="3" value="17"/>
+              <FeatureIndex index="4" value="20"/>
+              <FeatureIndex index="5" value="13"/>
+              <FeatureIndex index="6" value="4"/>
+            </LangSys>
+          </LangSysRecord>
+          <LangSysRecord index="1">
+            <LangSysTag value="URD "/>
+            <LangSys>
+              <ReqFeatureIndex value="65535"/>
+              <!-- FeatureCount=8 -->
+              <FeatureIndex index="0" value="2"/>
+              <FeatureIndex index="1" value="8"/>
+              <FeatureIndex index="2" value="11"/>
+              <FeatureIndex index="3" value="15"/>
+              <FeatureIndex index="4" value="18"/>
+              <FeatureIndex index="5" value="21"/>
+              <FeatureIndex index="6" value="14"/>
+              <FeatureIndex index="7" value="5"/>
+            </LangSys>
+          </LangSysRecord>
+        </Script>
+      </ScriptRecord>
+    </ScriptList>
+    <FeatureList>
+      <!-- FeatureCount=22 -->
+      <FeatureRecord index="0">
+        <FeatureTag value="ccmp"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="1">
+        <FeatureTag value="ccmp"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="2">
+        <FeatureTag value="ccmp"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="3">
+        <FeatureTag value="fina"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="3"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="4">
+        <FeatureTag value="fina"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="3"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="5">
+        <FeatureTag value="fina"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="3"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="6">
+        <FeatureTag value="init"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="4"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="7">
+        <FeatureTag value="init"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="4"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="8">
+        <FeatureTag value="init"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="4"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="9">
+        <FeatureTag value="isol"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="2"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="10">
+        <FeatureTag value="isol"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="2"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="11">
+        <FeatureTag value="isol"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="2"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="12">
+        <FeatureTag value="liga"/>
+        <Feature>
+          <!-- LookupCount=2 -->
+          <LookupListIndex index="0" value="7"/>
+          <LookupListIndex index="1" value="8"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="13">
+        <FeatureTag value="liga"/>
+        <Feature>
+          <!-- LookupCount=2 -->
+          <LookupListIndex index="0" value="7"/>
+          <LookupListIndex index="1" value="8"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="14">
+        <FeatureTag value="liga"/>
+        <Feature>
+          <!-- LookupCount=2 -->
+          <LookupListIndex index="0" value="7"/>
+          <LookupListIndex index="1" value="8"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="15">
+        <FeatureTag value="locl"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="1"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="16">
+        <FeatureTag value="medi"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="5"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="17">
+        <FeatureTag value="medi"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="5"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="18">
+        <FeatureTag value="medi"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="5"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="19">
+        <FeatureTag value="rlig"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="6"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="20">
+        <FeatureTag value="rlig"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="6"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="21">
+        <FeatureTag value="rlig"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="6"/>
+        </Feature>
+      </FeatureRecord>
+    </FeatureList>
+    <LookupList>
+      <!-- LookupCount=9 -->
+      <Lookup index="0">
+        <LookupType value="4"/>
+        <LookupFlag value="1"/>
+        <!-- SubTableCount=1 -->
+        <LigatureSubst index="0" Format="1">
+          <LigatureSet glyph="uni064B">
+            <Ligature components="uni0651" glyph="uni0651064B"/>
+            <Ligature components="uni0654" glyph="uni0654064B"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni064C">
+            <Ligature components="uni0651" glyph="uni0651064C"/>
+            <Ligature components="uni0654" glyph="uni0654064C"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni064D">
+            <Ligature components="uni0651" glyph="uni0651064D"/>
+            <Ligature components="uni0655" glyph="uni0655064D"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni064E">
+            <Ligature components="uni0651" glyph="uni0651064E"/>
+            <Ligature components="uni0654" glyph="uni0654064E"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni064F">
+            <Ligature components="uni0651" glyph="uni0651064F"/>
+            <Ligature components="uni0654" glyph="uni0654064F"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0650">
+            <Ligature components="uni0651" glyph="uni06510650"/>
+            <Ligature components="uni0655" glyph="uni06550650"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0651">
+            <Ligature components="uni064E" glyph="uni0651064E"/>
+            <Ligature components="uni064B" glyph="uni0651064B"/>
+            <Ligature components="uni0670" glyph="uniFC63"/>
+            <Ligature components="uni064F" glyph="uni0651064F"/>
+            <Ligature components="uni064C" glyph="uni0651064C"/>
+            <Ligature components="uni0650" glyph="uni06510650"/>
+            <Ligature components="uni064D" glyph="uni0651064D"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0652">
+            <Ligature components="uni0654" glyph="uni06540652"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0654">
+            <Ligature components="uni064E" glyph="uni0654064E"/>
+            <Ligature components="uni064B" glyph="uni0654064B"/>
+            <Ligature components="uni064F" glyph="uni0654064F"/>
+            <Ligature components="uni064C" glyph="uni0654064C"/>
+            <Ligature components="uni0652" glyph="uni06540652"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0655">
+            <Ligature components="uni0650" glyph="uni06550650"/>
+            <Ligature components="uni064D" glyph="uni0655064D"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0670">
+            <Ligature components="uni0651" glyph="uniFC63"/>
+          </LigatureSet>
+        </LigatureSubst>
+      </Lookup>
+      <Lookup index="1">
+        <LookupType value="1"/>
+        <LookupFlag value="1"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="2">
+          <Substitution in="uni0667" out="uni06F7.urdu"/>
+          <Substitution in="uni06F4" out="uni06F4.urdu"/>
+          <Substitution in="uni06F6" out="uni0666"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="2">
+        <LookupType value="1"/>
+        <LookupFlag value="9"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="2">
+          <Substitution in="uni06C1.fina" out="uni06C1"/>
+          <Substitution in="uni06C2.fina" out="uni06C2"/>
+          <Substitution in="uni06C3.fina" out="uni06C3"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="3">
+        <LookupType value="1"/>
+        <LookupFlag value="9"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="2">
+          <Substitution in="uni0622" out="uni0622.fina"/>
+          <Substitution in="uni0623" out="uni0623.fina"/>
+          <Substitution in="uni0624" out="uni0624.fina"/>
+          <Substitution in="uni0625" out="uni0625.fina"/>
+          <Substitution in="uni0626" out="uni0626.fina"/>
+          <Substitution in="uni0627" out="uni0627.fina"/>
+          <Substitution in="uni0628" out="uni0628.fina"/>
+          <Substitution in="uni0629" out="uni0629.fina"/>
+          <Substitution in="uni062A" out="uni062A.fina"/>
+          <Substitution in="uni062B" out="uni062B.fina"/>
+          <Substitution in="uni062C" out="uni062C.fina"/>
+          <Substitution in="uni062D" out="uni062D.fina"/>
+          <Substitution in="uni062E" out="uni062E.fina"/>
+          <Substitution in="uni062F" out="uni062F.fina"/>
+          <Substitution in="uni0630" out="uni0630.fina"/>
+          <Substitution in="uni0631" out="uni0631.fina"/>
+          <Substitution in="uni0632" out="uni0632.fina"/>
+          <Substitution in="uni0633" out="uni0633.fina"/>
+          <Substitution in="uni0634" out="uni0634.fina"/>
+          <Substitution in="uni0635" out="uni0635.fina"/>
+          <Substitution in="uni0636" out="uni0636.fina"/>
+          <Substitution in="uni0637" out="uni0637.fina"/>
+          <Substitution in="uni0638" out="uni0638.fina"/>
+          <Substitution in="uni0639" out="uni0639.fina"/>
+          <Substitution in="uni063A" out="uni063A.fina"/>
+          <Substitution in="uni0641" out="uni0641.fina"/>
+          <Substitution in="uni0642" out="uni0642.fina"/>
+          <Substitution in="uni0643" out="uni0643.fina"/>
+          <Substitution in="uni0644" out="uni0644.fina"/>
+          <Substitution in="uni0645" out="uni0645.fina"/>
+          <Substitution in="uni0646" out="uni0646.fina"/>
+          <Substitution in="uni0647" out="uni0647.fina"/>
+          <Substitution in="uni0648" out="uni0648.fina"/>
+          <Substitution in="uni0649" out="uni0649.fina"/>
+          <Substitution in="uni064A" out="uni064A.fina"/>
+          <Substitution in="uni066E" out="uni066E.fina"/>
+          <Substitution in="uni066F" out="uni066F.fina"/>
+          <Substitution in="uni0671" out="uni0671.fina"/>
+          <Substitution in="uni0672" out="uni0672.fina"/>
+          <Substitution in="uni0673" out="uni0673.fina"/>
+          <Substitution in="uni0675" out="uni0675.fina"/>
+          <Substitution in="uni0676" out="uni0676.fina"/>
+          <Substitution in="uni0677" out="uni0677.fina"/>
+          <Substitution in="uni0678" out="uni0678.fina"/>
+          <Substitution in="uni0679" out="uni0679.fina"/>
+          <Substitution in="uni067A" out="uni067A.fina"/>
+          <Substitution in="uni067B" out="uni067B.fina"/>
+          <Substitution in="uni067C" out="uni067C.fina"/>
+          <Substitution in="uni067D" out="uni067D.fina"/>
+          <Substitution in="uni067E" out="uni067E.fina"/>
+          <Substitution in="uni067F" out="uni067F.fina"/>
+          <Substitution in="uni0680" out="uni0680.fina"/>
+          <Substitution in="uni0681" out="uni0681.fina"/>
+          <Substitution in="uni0682" out="uni0682.fina"/>
+          <Substitution in="uni0683" out="uni0683.fina"/>
+          <Substitution in="uni0684" out="uni0684.fina"/>
+          <Substitution in="uni0685" out="uni0685.fina"/>
+          <Substitution in="uni0686" out="uni0686.fina"/>
+          <Substitution in="uni0687" out="uni0687.fina"/>
+          <Substitution in="uni0688" out="uni0688.fina"/>
+          <Substitution in="uni0689" out="uni0689.fina"/>
+          <Substitution in="uni068A" out="uni068A.fina"/>
+          <Substitution in="uni068B" out="uni068B.fina"/>
+          <Substitution in="uni068C" out="uni068C.fina"/>
+          <Substitution in="uni068D" out="uni068D.fina"/>
+          <Substitution in="uni068E" out="uni068E.fina"/>
+          <Substitution in="uni068F" out="uni068F.fina"/>
+          <Substitution in="uni0690" out="uni0690.fina"/>
+          <Substitution in="uni0691" out="uni0691.fina"/>
+          <Substitution in="uni0692" out="uni0692.fina"/>
+          <Substitution in="uni0693" out="uni0693.fina"/>
+          <Substitution in="uni0694" out="uni0694.fina"/>
+          <Substitution in="uni0695" out="uni0695.fina"/>
+          <Substitution in="uni0696" out="uni0696.fina"/>
+          <Substitution in="uni0697" out="uni0697.fina"/>
+          <Substitution in="uni0698" out="uni0698.fina"/>
+          <Substitution in="uni0699" out="uni0699.fina"/>
+          <Substitution in="uni069A" out="uni069A.fina"/>
+          <Substitution in="uni069B" out="uni069B.fina"/>
+          <Substitution in="uni069C" out="uni069C.fina"/>
+          <Substitution in="uni069D" out="uni069D.fina"/>
+          <Substitution in="uni069E" out="uni069E.fina"/>
+          <Substitution in="uni069F" out="uni069F.fina"/>
+          <Substitution in="uni06A0" out="uni06A0.fina"/>
+          <Substitution in="uni06A1" out="uni06A1.fina"/>
+          <Substitution in="uni06A2" out="uni06A2.fina"/>
+          <Substitution in="uni06A3" out="uni06A3.fina"/>
+          <Substitution in="uni06A4" out="uni06A4.fina"/>
+          <Substitution in="uni06A5" out="uni06A5.fina"/>
+          <Substitution in="uni06A6" out="uni06A6.fina"/>
+          <Substitution in="uni06A7" out="uni06A7.fina"/>
+          <Substitution in="uni06A8" out="uni06A8.fina"/>
+          <Substitution in="uni06A9" out="uni06A9.fina"/>
+          <Substitution in="uni06AA" out="uni06AA.fina"/>
+          <Substitution in="uni06AB" out="uni06AB.fina"/>
+          <Substitution in="uni06AC" out="uni06AC.fina"/>
+          <Substitution in="uni06AD" out="uni06AD.fina"/>
+          <Substitution in="uni06AD.morocco" out="uni06AD.finamorocco"/>
+          <Substitution in="uni06AE" out="uni06AE.fina"/>
+          <Substitution in="uni06AF" out="uni06AF.fina"/>
+          <Substitution in="uni06B0" out="uni06B0.fina"/>
+          <Substitution in="uni06B1" out="uni06B1.fina"/>
+          <Substitution in="uni06B2" out="uni06B2.fina"/>
+          <Substitution in="uni06B3" out="uni06B3.fina"/>
+          <Substitution in="uni06B4" out="uni06B4.fina"/>
+          <Substitution in="uni06B5" out="uni06B5.fina"/>
+          <Substitution in="uni06B6" out="uni06B6.fina"/>
+          <Substitution in="uni06B7" out="uni06B7.fina"/>
+          <Substitution in="uni06B8" out="uni06B8.fina"/>
+          <Substitution in="uni06B9" out="uni06B9.fina"/>
+          <Substitution in="uni06BA" out="uni06BA.fina"/>
+          <Substitution in="uni06BB" out="uni06BB.fina"/>
+          <Substitution in="uni06BC" out="uni06BC.fina"/>
+          <Substitution in="uni06BD" out="uni06BD.fina"/>
+          <Substitution in="uni06BE" out="uni06BE.fina"/>
+          <Substitution in="uni06BF" out="uni06BF.fina"/>
+          <Substitution in="uni06C0" out="uni06C0.fina"/>
+          <Substitution in="uni06C1" out="uni06C1.fina"/>
+          <Substitution in="uni06C4" out="uni06C4.fina"/>
+          <Substitution in="uni06C5" out="uni06C5.fina"/>
+          <Substitution in="uni06C6" out="uni06C6.fina"/>
+          <Substitution in="uni06C7" out="uni06C7.fina"/>
+          <Substitution in="uni06C8" out="uni06C8.fina"/>
+          <Substitution in="uni06C9" out="uni06C9.fina"/>
+          <Substitution in="uni06CA" out="uni06CA.fina"/>
+          <Substitution in="uni06CB" out="uni06CB.fina"/>
+          <Substitution in="uni06CC" out="uni06CC.fina"/>
+          <Substitution in="uni06CD" out="uni06CD.fina"/>
+          <Substitution in="uni06CE" out="uni06CE.fina"/>
+          <Substitution in="uni06CF" out="uni06CF.fina"/>
+          <Substitution in="uni06D0" out="uni06D0.fina"/>
+          <Substitution in="uni06D1" out="uni06D1.fina"/>
+          <Substitution in="uni06D2" out="uni06D2.fina"/>
+          <Substitution in="uni06D3" out="uni06D3.fina"/>
+          <Substitution in="uni06D5" out="uni0647.fina"/>
+          <Substitution in="uni06EE" out="uni06EE.fina"/>
+          <Substitution in="uni06EF" out="uni06EF.fina"/>
+          <Substitution in="uni06FA" out="uni06FA.fina"/>
+          <Substitution in="uni06FB" out="uni06FB.fina"/>
+          <Substitution in="uni06FC" out="uni06FC.fina"/>
+          <Substitution in="uni06FF" out="uni06FF.fina"/>
+          <Substitution in="uni0750" out="uni0750.fina"/>
+          <Substitution in="uni0751" out="uni0751.fina"/>
+          <Substitution in="uni0752" out="uni0752.fina"/>
+          <Substitution in="uni0753" out="uni0753.fina"/>
+          <Substitution in="uni0754" out="uni0754.fina"/>
+          <Substitution in="uni0755" out="uni0755.fina"/>
+          <Substitution in="uni0756" out="uni0756.fina"/>
+          <Substitution in="uni0757" out="uni0757.fina"/>
+          <Substitution in="uni0758" out="uni0758.fina"/>
+          <Substitution in="uni0759" out="uni0759.fina"/>
+          <Substitution in="uni075A" out="uni075A.fina"/>
+          <Substitution in="uni075B" out="uni075B.fina"/>
+          <Substitution in="uni075C" out="uni075C.fina"/>
+          <Substitution in="uni075D" out="uni075D.fina"/>
+          <Substitution in="uni075E" out="uni075E.fina"/>
+          <Substitution in="uni075F" out="uni075F.fina"/>
+          <Substitution in="uni0760" out="uni0760.fina"/>
+          <Substitution in="uni0761" out="uni0761.fina"/>
+          <Substitution in="uni0762" out="uni0762.fina"/>
+          <Substitution in="uni0763" out="uni0763.fina"/>
+          <Substitution in="uni0764" out="uni0764.fina"/>
+          <Substitution in="uni0765" out="uni0765.fina"/>
+          <Substitution in="uni0766" out="uni0766.fina"/>
+          <Substitution in="uni0767" out="uni0767.fina"/>
+          <Substitution in="uni0768" out="uni0768.fina"/>
+          <Substitution in="uni0769" out="uni0769.fina"/>
+          <Substitution in="uni076A" out="uni076A.fina"/>
+          <Substitution in="uni076B" out="uni076B.fina"/>
+          <Substitution in="uni076C" out="uni076C.fina"/>
+          <Substitution in="uni076D" out="uni076D.fina"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="4">
+        <LookupType value="1"/>
+        <LookupFlag value="9"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="2">
+          <Substitution in="uni0626" out="uni0626.init"/>
+          <Substitution in="uni0628" out="uni0628.init"/>
+          <Substitution in="uni062A" out="uni062A.init"/>
+          <Substitution in="uni062B" out="uni062B.init"/>
+          <Substitution in="uni062C" out="uni062C.init"/>
+          <Substitution in="uni062D" out="uni062D.init"/>
+          <Substitution in="uni062E" out="uni062E.init"/>
+          <Substitution in="uni0633" out="uni0633.init"/>
+          <Substitution in="uni0634" out="uni0634.init"/>
+          <Substitution in="uni0635" out="uni0635.init"/>
+          <Substitution in="uni0636" out="uni0636.init"/>
+          <Substitution in="uni0637" out="uni0637.init"/>
+          <Substitution in="uni0638" out="uni0638.init"/>
+          <Substitution in="uni0639" out="uni0639.init"/>
+          <Substitution in="uni063A" out="uni063A.init"/>
+          <Substitution in="uni0641" out="uni0641.init"/>
+          <Substitution in="uni0642" out="uni0642.init"/>
+          <Substitution in="uni0643" out="uni0643.init"/>
+          <Substitution in="uni0644" out="uni0644.init"/>
+          <Substitution in="uni0645" out="uni0645.init"/>
+          <Substitution in="uni0646" out="uni0646.init"/>
+          <Substitution in="uni0647" out="uni0647.init"/>
+          <Substitution in="uni0649" out="uni0649.init"/>
+          <Substitution in="uni064A" out="uni064A.init"/>
+          <Substitution in="uni066E" out="uni066E.init"/>
+          <Substitution in="uni066F" out="uni066F.init"/>
+          <Substitution in="uni0678" out="uni0626.init"/>
+          <Substitution in="uni0679" out="uni0679.init"/>
+          <Substitution in="uni067A" out="uni067A.init"/>
+          <Substitution in="uni067B" out="uni067B.init"/>
+          <Substitution in="uni067C" out="uni067C.init"/>
+          <Substitution in="uni067D" out="uni067D.init"/>
+          <Substitution in="uni067E" out="uni067E.init"/>
+          <Substitution in="uni067F" out="uni067F.init"/>
+          <Substitution in="uni0680" out="uni0680.init"/>
+          <Substitution in="uni0681" out="uni0681.init"/>
+          <Substitution in="uni0682" out="uni0682.init"/>
+          <Substitution in="uni0683" out="uni0683.init"/>
+          <Substitution in="uni0684" out="uni0684.init"/>
+          <Substitution in="uni0685" out="uni0685.init"/>
+          <Substitution in="uni0686" out="uni0686.init"/>
+          <Substitution in="uni0687" out="uni0687.init"/>
+          <Substitution in="uni069A" out="uni069A.init"/>
+          <Substitution in="uni069B" out="uni069B.init"/>
+          <Substitution in="uni069C" out="uni069C.init"/>
+          <Substitution in="uni069D" out="uni069D.init"/>
+          <Substitution in="uni069E" out="uni069E.init"/>
+          <Substitution in="uni069F" out="uni069F.init"/>
+          <Substitution in="uni06A0" out="uni06A0.init"/>
+          <Substitution in="uni06A1" out="uni066F.init"/>
+          <Substitution in="uni06A2" out="uni06A2.init"/>
+          <Substitution in="uni06A3" out="uni06A3.init"/>
+          <Substitution in="uni06A4" out="uni06A4.init"/>
+          <Substitution in="uni06A5" out="uni06A5.init"/>
+          <Substitution in="uni06A6" out="uni06A6.init"/>
+          <Substitution in="uni06A7" out="uni0641.init"/>
+          <Substitution in="uni06A8" out="uni06A4.init"/>
+          <Substitution in="uni06A9" out="uni06A9.init"/>
+          <Substitution in="uni06AA" out="uni06AA.init"/>
+          <Substitution in="uni06AB" out="uni06AB.init"/>
+          <Substitution in="uni06AC" out="uni06AC.init"/>
+          <Substitution in="uni06AD" out="uni06AD.init"/>
+          <Substitution in="uni06AD.morocco" out="uni06AD.init"/>
+          <Substitution in="uni06AE" out="uni06AE.init"/>
+          <Substitution in="uni06AF" out="uni06AF.init"/>
+          <Substitution in="uni06B0" out="uni06B0.init"/>
+          <Substitution in="uni06B1" out="uni06B1.init"/>
+          <Substitution in="uni06B2" out="uni06B2.init"/>
+          <Substitution in="uni06B3" out="uni06B3.init"/>
+          <Substitution in="uni06B4" out="uni06B4.init"/>
+          <Substitution in="uni06B5" out="uni06B5.init"/>
+          <Substitution in="uni06B6" out="uni06B6.init"/>
+          <Substitution in="uni06B7" out="uni06B7.init"/>
+          <Substitution in="uni06B8" out="uni06B8.init"/>
+          <Substitution in="uni06B9" out="uni06B9.init"/>
+          <Substitution in="uni06BA" out="uni0646.init"/>
+          <Substitution in="uni06BB" out="uni0679.init"/>
+          <Substitution in="uni06BC" out="uni06BC.init"/>
+          <Substitution in="uni06BD" out="uni067E.init"/>
+          <Substitution in="uni06BE" out="uni06BE.init"/>
+          <Substitution in="uni06BF" out="uni06BF.init"/>
+          <Substitution in="uni06C1" out="uni06C1.init"/>
+          <Substitution in="uni06CC" out="uni06CC.init"/>
+          <Substitution in="uni06CE" out="uni06CE.init"/>
+          <Substitution in="uni06D0" out="uni06D0.init"/>
+          <Substitution in="uni06D1" out="uni067E.init"/>
+          <Substitution in="uni06FA" out="uni06FA.init"/>
+          <Substitution in="uni06FB" out="uni06FB.init"/>
+          <Substitution in="uni06FC" out="uni06FC.init"/>
+          <Substitution in="uni06FF" out="uni06FF.init"/>
+          <Substitution in="uni0750" out="uni0750.init"/>
+          <Substitution in="uni0751" out="uni0751.init"/>
+          <Substitution in="uni0752" out="uni0752.init"/>
+          <Substitution in="uni0753" out="uni0753.init"/>
+          <Substitution in="uni0754" out="uni0754.init"/>
+          <Substitution in="uni0755" out="uni0755.init"/>
+          <Substitution in="uni0756" out="uni0756.init"/>
+          <Substitution in="uni0757" out="uni0757.init"/>
+          <Substitution in="uni0758" out="uni0758.init"/>
+          <Substitution in="uni075C" out="uni075C.init"/>
+          <Substitution in="uni075D" out="uni075D.init"/>
+          <Substitution in="uni075E" out="uni075E.init"/>
+          <Substitution in="uni075F" out="uni075F.init"/>
+          <Substitution in="uni0760" out="uni0760.init"/>
+          <Substitution in="uni0761" out="uni0761.init"/>
+          <Substitution in="uni0762" out="uni0762.init"/>
+          <Substitution in="uni0763" out="uni0763.init"/>
+          <Substitution in="uni0764" out="uni0764.init"/>
+          <Substitution in="uni0765" out="uni0765.init"/>
+          <Substitution in="uni0766" out="uni0766.init"/>
+          <Substitution in="uni0767" out="uni0767.init"/>
+          <Substitution in="uni0768" out="uni0768.init"/>
+          <Substitution in="uni0769" out="uni0769.init"/>
+          <Substitution in="uni076A" out="uni076A.init"/>
+          <Substitution in="uni076D" out="uni076D.init"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="5">
+        <LookupType value="1"/>
+        <LookupFlag value="9"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="2">
+          <Substitution in="uni0626" out="uni0626.medi"/>
+          <Substitution in="uni0628" out="uni0628.medi"/>
+          <Substitution in="uni062A" out="uni062A.medi"/>
+          <Substitution in="uni062B" out="uni062B.medi"/>
+          <Substitution in="uni062C" out="uni062C.medi"/>
+          <Substitution in="uni062D" out="uni062D.medi"/>
+          <Substitution in="uni062E" out="uni062E.medi"/>
+          <Substitution in="uni0633" out="uni0633.medi"/>
+          <Substitution in="uni0634" out="uni0634.medi"/>
+          <Substitution in="uni0635" out="uni0635.medi"/>
+          <Substitution in="uni0636" out="uni0636.medi"/>
+          <Substitution in="uni0637" out="uni0637.medi"/>
+          <Substitution in="uni0638" out="uni0638.medi"/>
+          <Substitution in="uni0639" out="uni0639.medi"/>
+          <Substitution in="uni063A" out="uni063A.medi"/>
+          <Substitution in="uni0641" out="uni0641.medi"/>
+          <Substitution in="uni0642" out="uni0642.medi"/>
+          <Substitution in="uni0643" out="uni0643.medi"/>
+          <Substitution in="uni0644" out="uni0644.medi"/>
+          <Substitution in="uni0645" out="uni0645.medi"/>
+          <Substitution in="uni0646" out="uni0646.medi"/>
+          <Substitution in="uni0647" out="uni0647.medi"/>
+          <Substitution in="uni0649" out="uni0649.medi"/>
+          <Substitution in="uni064A" out="uni064A.medi"/>
+          <Substitution in="uni066E" out="uni066E.medi"/>
+          <Substitution in="uni066F" out="uni066F.medi"/>
+          <Substitution in="uni0678" out="uni0626.medi"/>
+          <Substitution in="uni0679" out="uni0679.medi"/>
+          <Substitution in="uni067A" out="uni067A.medi"/>
+          <Substitution in="uni067B" out="uni067B.medi"/>
+          <Substitution in="uni067C" out="uni067C.medi"/>
+          <Substitution in="uni067D" out="uni067D.medi"/>
+          <Substitution in="uni067E" out="uni067E.medi"/>
+          <Substitution in="uni067F" out="uni067F.medi"/>
+          <Substitution in="uni0680" out="uni0680.medi"/>
+          <Substitution in="uni0681" out="uni0681.medi"/>
+          <Substitution in="uni0682" out="uni0682.medi"/>
+          <Substitution in="uni0683" out="uni0683.medi"/>
+          <Substitution in="uni0684" out="uni0684.medi"/>
+          <Substitution in="uni0685" out="uni0685.medi"/>
+          <Substitution in="uni0686" out="uni0686.medi"/>
+          <Substitution in="uni0687" out="uni0687.medi"/>
+          <Substitution in="uni069A" out="uni069A.medi"/>
+          <Substitution in="uni069B" out="uni069B.medi"/>
+          <Substitution in="uni069C" out="uni069C.medi"/>
+          <Substitution in="uni069D" out="uni069D.medi"/>
+          <Substitution in="uni069E" out="uni069E.medi"/>
+          <Substitution in="uni069F" out="uni069F.medi"/>
+          <Substitution in="uni06A0" out="uni06A0.medi"/>
+          <Substitution in="uni06A1" out="uni066F.medi"/>
+          <Substitution in="uni06A2" out="uni06A2.medi"/>
+          <Substitution in="uni06A3" out="uni06A3.medi"/>
+          <Substitution in="uni06A4" out="uni06A4.medi"/>
+          <Substitution in="uni06A5" out="uni06A5.medi"/>
+          <Substitution in="uni06A6" out="uni06A6.medi"/>
+          <Substitution in="uni06A7" out="uni0641.medi"/>
+          <Substitution in="uni06A8" out="uni06A4.medi"/>
+          <Substitution in="uni06A9" out="uni06A9.medi"/>
+          <Substitution in="uni06AA" out="uni06AA.medi"/>
+          <Substitution in="uni06AB" out="uni06AB.medi"/>
+          <Substitution in="uni06AC" out="uni06AC.medi"/>
+          <Substitution in="uni06AD" out="uni06AD.medi"/>
+          <Substitution in="uni06AD.morocco" out="uni06AD.medi"/>
+          <Substitution in="uni06AE" out="uni06AE.medi"/>
+          <Substitution in="uni06AF" out="uni06AF.medi"/>
+          <Substitution in="uni06B0" out="uni06B0.medi"/>
+          <Substitution in="uni06B1" out="uni06B1.medi"/>
+          <Substitution in="uni06B2" out="uni06B2.medi"/>
+          <Substitution in="uni06B3" out="uni06B3.medi"/>
+          <Substitution in="uni06B4" out="uni06B4.medi"/>
+          <Substitution in="uni06B5" out="uni06B5.medi"/>
+          <Substitution in="uni06B6" out="uni06B6.medi"/>
+          <Substitution in="uni06B7" out="uni06B7.medi"/>
+          <Substitution in="uni06B8" out="uni06B8.medi"/>
+          <Substitution in="uni06B9" out="uni06B9.medi"/>
+          <Substitution in="uni06BA" out="uni0646.medi"/>
+          <Substitution in="uni06BB" out="uni0679.medi"/>
+          <Substitution in="uni06BC" out="uni06BC.medi"/>
+          <Substitution in="uni06BD" out="uni067E.medi"/>
+          <Substitution in="uni06BE" out="uni06BE.medi"/>
+          <Substitution in="uni06BF" out="uni06BF.medi"/>
+          <Substitution in="uni06C1" out="uni06C1.medi"/>
+          <Substitution in="uni06CC" out="uni06CC.medi"/>
+          <Substitution in="uni06CE" out="uni06CE.medi"/>
+          <Substitution in="uni06D0" out="uni06D0.medi"/>
+          <Substitution in="uni06D1" out="uni067E.medi"/>
+          <Substitution in="uni06FA" out="uni06FA.medi"/>
+          <Substitution in="uni06FB" out="uni06FB.medi"/>
+          <Substitution in="uni06FC" out="uni06FC.medi"/>
+          <Substitution in="uni06FF" out="uni06FF.medi"/>
+          <Substitution in="uni0750" out="uni0750.medi"/>
+          <Substitution in="uni0751" out="uni0751.medi"/>
+          <Substitution in="uni0752" out="uni0752.medi"/>
+          <Substitution in="uni0753" out="uni0753.medi"/>
+          <Substitution in="uni0754" out="uni0754.medi"/>
+          <Substitution in="uni0755" out="uni0755.medi"/>
+          <Substitution in="uni0756" out="uni0756.medi"/>
+          <Substitution in="uni0757" out="uni0757.medi"/>
+          <Substitution in="uni0758" out="uni0758.medi"/>
+          <Substitution in="uni075C" out="uni075C.medi"/>
+          <Substitution in="uni075D" out="uni075D.medi"/>
+          <Substitution in="uni075E" out="uni075E.medi"/>
+          <Substitution in="uni075F" out="uni075F.medi"/>
+          <Substitution in="uni0760" out="uni0760.medi"/>
+          <Substitution in="uni0761" out="uni0761.medi"/>
+          <Substitution in="uni0762" out="uni0762.medi"/>
+          <Substitution in="uni0763" out="uni0763.medi"/>
+          <Substitution in="uni0764" out="uni0764.medi"/>
+          <Substitution in="uni0765" out="uni0765.medi"/>
+          <Substitution in="uni0766" out="uni0766.medi"/>
+          <Substitution in="uni0767" out="uni0767.medi"/>
+          <Substitution in="uni0768" out="uni0768.medi"/>
+          <Substitution in="uni0769" out="uni0769.medi"/>
+          <Substitution in="uni076A" out="uni076A.medi"/>
+          <Substitution in="uni076D" out="uni076D.medi"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="6">
+        <LookupType value="4"/>
+        <LookupFlag value="9"/>
+        <!-- SubTableCount=1 -->
+        <LigatureSubst index="0" Format="1">
+          <LigatureSet glyph="uni0644.init">
+            <Ligature components="uni0622.fina" glyph="uni06440622.isol"/>
+            <Ligature components="uni0623.fina" glyph="uni06440623.isol"/>
+            <Ligature components="uni0625.fina" glyph="uni06440625.isol"/>
+            <Ligature components="uni0627.fina" glyph="uni06440627.isol"/>
+            <Ligature components="uni0671.fina" glyph="uni06440671.isol"/>
+            <Ligature components="uni0672.fina" glyph="uni06440672.isol"/>
+            <Ligature components="uni0673.fina" glyph="uni06440673.isol"/>
+            <Ligature components="uni0675.fina" glyph="uni06440675.isol"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0644.medi">
+            <Ligature components="uni0622.fina" glyph="uni06440622.fina"/>
+            <Ligature components="uni0623.fina" glyph="uni06440623.fina"/>
+            <Ligature components="uni0625.fina" glyph="uni06440625.fina"/>
+            <Ligature components="uni0627.fina" glyph="uni06440627.fina"/>
+            <Ligature components="uni0671.fina" glyph="uni06440671.fina"/>
+            <Ligature components="uni0672.fina" glyph="uni06440672.fina"/>
+            <Ligature components="uni0673.fina" glyph="uni06440673.fina"/>
+            <Ligature components="uni0675.fina" glyph="uni06440675.fina"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni06B5.init">
+            <Ligature components="uni0627.fina" glyph="uni06B50627.isol"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni06B5.medi">
+            <Ligature components="uni0627.fina" glyph="uni06B50627.fina"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni06B6.init">
+            <Ligature components="uni0627.fina" glyph="uni06B60627.isol"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni06B6.medi">
+            <Ligature components="uni0627.fina" glyph="uni06B60627.fina"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni06B7.init">
+            <Ligature components="uni0627.fina" glyph="uni06B70627.isol"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni06B7.medi">
+            <Ligature components="uni0627.fina" glyph="uni06B70627.fina"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni06B8.init">
+            <Ligature components="uni0627.fina" glyph="uni06B80627.isol"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni06B8.medi">
+            <Ligature components="uni0627.fina" glyph="uni06B80627.fina"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni076A.init">
+            <Ligature components="uni0627.fina" glyph="uni076A0627.isol"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni076A.medi">
+            <Ligature components="uni0627.fina" glyph="uni076A0627.fina"/>
+          </LigatureSet>
+        </LigatureSubst>
+      </Lookup>
+      <Lookup index="7">
+        <LookupType value="4"/>
+        <LookupFlag value="1"/>
+        <!-- SubTableCount=1 -->
+        <LigatureSubst index="0" Format="1">
+          <LigatureSet glyph="uni0627">
+            <Ligature components="uni0644.init,uni0644.medi,uni0647.fina" glyph="allah"/>
+            <Ligature components="uni0644.init,uni0644.medi,uni06C1.fina" glyph="allah"/>
+          </LigatureSet>
+        </LigatureSubst>
+      </Lookup>
+      <Lookup index="8">
+        <LookupType value="4"/>
+        <LookupFlag value="9"/>
+        <!-- SubTableCount=1 -->
+        <LigatureSubst index="0" Format="1">
+          <LigatureSet glyph="uni0631">
+            <Ligature components="uni064A.init,uni0627.fina,uni0644" glyph="riyal"/>
+          </LigatureSet>
+        </LigatureSubst>
+      </Lookup>
+    </LookupList>
+  </GSUB>
+
+</ttFont>
